@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Aravind Kumar
 
-<!--
-**aravind1554/aravind1554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI/ML Engineer and Full-Stack Developer passionate about building intelligent applications using Generative AI, LangChain, and modern web technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### Languages & Frameworks
+
+* Python
+* TypeScript
+* JavaScript
+* FastAPI
+* React.js
+* Streamlit
+
+### AI & Machine Learning
+
+* LangChain
+* LangGraph
+* Groq LLaMA 3
+* HuggingFace
+* ChromaDB
+* RAG Pipelines
+
+### Tools & Platforms
+
+* Docker
+* GitHub
+* PostgreSQL
+* Firebase
+* REST APIs
+
+---
+
+## 🚀 Featured Projects
+
+### 🏛️ NitiAI – Government Scheme Assistant
+
+AI-powered assistant that helps Indian citizens discover government welfare schemes using LangChain, Groq LLaMA 3, and ChromaDB.
+
+### 🤖 Multi-Agent Coding Assistant
+
+Built a multi-agent AI coding assistant using LangGraph for task planning, code generation, debugging, testing, and code review.
+
+### 🎬 Netflix Movie Recommendation System
+
+Content-based recommendation engine using NLP, CountVectorizer, and cosine similarity.
+
+---
+
+## 📈 Currently Exploring
+
+* Multi-Agent AI Systems
+* AI SaaS Applications
+* RAG Architectures
+* LLM Deployment
+* Kubernetes & DevOps
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/your-link
+* Portfolio: https://your-portfolio-link
+* Email: [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+⭐ Passionate about building impactful AI-powered solutions.
