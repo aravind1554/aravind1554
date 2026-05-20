@@ -62,9 +62,8 @@ Content-based recommendation engine using NLP, CountVectorizer, and cosine simil
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/your-link
-* Portfolio: https://your-portfolio-link
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/aravind1554/)
+* Email: [your.email@example.com](paluruaravind8@gmail.com)
 
 ---
 
